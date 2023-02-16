@@ -1,0 +1,3 @@
+Hello World!
+Ok this is the first file indeed that i create as part of learing git basics through
+the Odin Project.
